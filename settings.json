@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mc2170003.fmcs.cloud",
-    "port": 36691,
+    "ip": "vnbakhi.minefort.com",
+    "port": 25565,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
